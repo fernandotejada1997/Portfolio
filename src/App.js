@@ -8,6 +8,7 @@ function App() {
       <NavBar />
       <div className="home">
       <Home />
+      <Home />
       </div>
     </div>
   );
